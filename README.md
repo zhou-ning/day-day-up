@@ -13,7 +13,7 @@
 
 * [java相关知识](https://www.cnblogs.com/zhou-ning/tag/java/)
 * [机器学习](https://www.cnblogs.com/zhou-ning/tag/机器学习/)
-* 英语
+* [英语](/英语学习)
 
 ## :blue_book:学习记录
 
@@ -56,3 +56,7 @@
 ### 2020-07-01
 
 * [今日总结](/每日小结/2020-07-01.md)
+
+### 2020-07-02
+
+* [今日总结](/每日小结/2020-07-02.md)

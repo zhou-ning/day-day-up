@@ -18,3 +18,9 @@
 ## :blue_book:学习记录
 
 类似于日记一般在每日小结当中。
+
+## 📚参考项目
+
+* https://github.com/Snailclimb/JavaGuide
+* https://github.com/AobingJava/JavaFamily
+
